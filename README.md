@@ -1,6 +1,6 @@
 E-Commerce Sales Data Cleaning & Analysis
-Project Overview
 
+Project Overview
 This project focuses on cleaning, organizing, and preparing e-commerce transactional data for data analysis. The dataset contains customer orders, payment details, product information, shipping data, and sales metrics.
 
 The primary goal of this project is to improve data quality and create a structured dataset suitable for business analysis and decision-making.
